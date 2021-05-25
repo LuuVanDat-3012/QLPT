@@ -10,15 +10,15 @@ package Model;
  * @author Dat
  */
 public class XeMay extends PhuongTien{
-    private String maXeMAy;
+    private String maXeMay;
     private float congSuat;
 
-    public String getMaXeMAy() {
-        return maXeMAy;
+    public String getMaXeMay() {
+        return maXeMay;
     }
 
-    public void setMaXeMAy(String maXeMAy) {
-        this.maXeMAy = maXeMAy;
+    public void setMaXeMay(String maXeMAy) {
+        this.maXeMay = maXeMAy;
     }
 
     public float getCongSuat() {
