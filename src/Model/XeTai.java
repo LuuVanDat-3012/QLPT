@@ -10,15 +10,15 @@ package Model;
  * @author Dat
  */
 public class XeTai {
-    private String maXetai;
+    private String maXeTai;
     private double congSuat;
 
-    public String getMaXetai() {
-        return maXetai;
+    public String getMaXeTai() {
+        return maXeTai;
     }
 
-    public void setMaXetai(String maXetai) {
-        this.maXetai = maXetai;
+    public void setMaXeTai(String maXetai) {
+        this.maXeTai = maXetai;
     }
 
     public double getCongSuat() {
